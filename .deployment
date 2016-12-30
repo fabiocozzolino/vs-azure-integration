@@ -1,2 +1,2 @@
 [config]
-project = XConn/MobileAppService/XConn.MobileAppService.csproj
+command = deploy.cmd
