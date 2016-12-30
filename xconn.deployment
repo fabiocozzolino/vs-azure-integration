@@ -1,2 +1,2 @@
 [config]
-project = XConn/MobileAppService
+command = deploy.cmd
