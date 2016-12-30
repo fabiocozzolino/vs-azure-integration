@@ -1,0 +1,7 @@
+/Users/fabio/Projects/vs-azure-integration/XConn/MobileAppService/bin/Release/netcoreapp1.0/XConn.MobileAppService.dll.config
+/Users/fabio/Projects/vs-azure-integration/XConn/MobileAppService/bin/Release/netcoreapp1.0/XConn.MobileAppService.dll
+/Users/fabio/Projects/vs-azure-integration/XConn/MobileAppService/bin/Release/netcoreapp1.0/XConn.MobileAppService.pdb
+/Users/fabio/Projects/vs-azure-integration/XConn/MobileAppService/obj/Release/netcoreapp1.0/XConn.MobileAppService.csproj.XConn.MobileAppService.dll.config
+/Users/fabio/Projects/vs-azure-integration/XConn/MobileAppService/obj/Release/netcoreapp1.0/XConn.MobileAppService.AssemblyInfo.cs
+/Users/fabio/Projects/vs-azure-integration/XConn/MobileAppService/obj/Release/netcoreapp1.0/XConn.MobileAppService.dll
+/Users/fabio/Projects/vs-azure-integration/XConn/MobileAppService/obj/Release/netcoreapp1.0/XConn.MobileAppService.pdb
