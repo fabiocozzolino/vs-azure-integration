@@ -1,0 +1,25 @@
+Command: deploy.cmd
+Handling ASP.NET Core Web Application deployment.
+Microsoft (R) Build Engine version 15.1.0.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/30/2016 8:18:52 PM.
+     1>Project "D:\home\site\repository\XConn\MobileAppService\XConn.MobileAppService.csproj" on node 1 (Publish target(s)).
+     1>D:\Program Files (x86)\dotnet\sdk\1.0.0-preview3-004056\Microsoft.Common.CurrentVersion.targets(733,5): error : The OutputPath property is not set for project 'XConn.MobileAppService.csproj'.  Please check to make sure that you have specified a valid combination of Configuration and Platform for this project.  Configuration='Release'  Platform=''.  You may be seeing this message because you are trying to build a project without a solution file, and have specified a non-default Configuration or Platform that doesn't exist for this project. [D:\home\site\repository\XConn\MobileAppService\XConn.MobileAppService.csproj]
+     1>Done Building Project "D:\home\site\repository\XConn\MobileAppService\XConn.MobileAppService.csproj" (Publish target(s)) -- FAILED.
+
+Build FAILED.
+
+       "D:\home\site\repository\XConn\MobileAppService\XConn.MobileAppService.csproj" (Publish target) (1) ->
+       (_CheckForInvalidConfigurationAndPlatform target) -> 
+         D:\Program Files (x86)\dotnet\sdk\1.0.0-preview3-004056\Microsoft.Common.CurrentVersion.targets(733,5): error : The OutputPath property is not set for project 'XConn.MobileAppService.csproj'.  Please check to make sure that you have specified a valid combination of Configuration and Platform for this project.  Configuration='Release'  Platform=''.  You may be seeing this message because you are trying to build a project without a solution file, and have specified a non-default Configuration or Platform that doesn't exist for this project. [D:\home\site\repository\XConn\MobileAppService\XConn.MobileAppService.csproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.64
+Failed exitCode=1, command=dotnet publish "XConn\MobileAppService\XConn.MobileAppService.csproj" --framework netcoreapp1.0 --configuration Release --output "D:\local\Temp\8d430f111ca6252"
+An error has occurred during web site deployment.
+\r\nD:\Program Files (x86)\SiteExtensions\Kudu\59.51212.2600\bin\Scripts\starter.cmd deploy.cmd
+
+
