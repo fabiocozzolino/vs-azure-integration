@@ -1,2 +1,2 @@
 [config]
-command = deploy.cmd
+command = azure site deploymentscript -y --no-dot-deployment -r "D:\home\site\repository" -o "D:\home\site\deployments\tools" --aspNetCore "D:\home\site\repository\XConn\MobileAppService\XConn.MobileAppService.csproj"
