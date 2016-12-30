@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{38C4F2B1-1EA7-4E09-A24B-F791D781E676}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MobileAppService/XConn.MobileAppService.csproj">
     <Files>
-      <File FileName="MobileAppService/Startup.cs" Line="1" Column="1" />
-      <File FileName="MobileAppService/Controllers/ItemController.cs" Line="14" Column="3" />
+      <File FileName="MobileAppService/Startup.cs" Line="23" Column="4" />
+      <File FileName="MobileAppService/Controllers/ItemController.cs" Line="12" Column="3" />
       <File FileName="MobileAppService/XConn.MobileAppService.csproj" Line="1" Column="1" />
+      <File FileName="MobileAppService/Program.cs" Line="19" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />

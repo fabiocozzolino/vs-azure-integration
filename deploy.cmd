@@ -67,7 +67,7 @@ SET MSBUILD_PATH=%ProgramFiles(x86)%\MSBuild\14.0\Bin\MSBuild.exe
 echo Handling ASP.NET Core Web Application deployment.
 
 :: 2. Build and publish
-call :ExecuteCmd dotnet publish "XConn\MobileAppService\XConn.MobileAppService.csproj" --framework netcoreapp1.0 --output "%DEPLOYMENT_TEMP%"
+call :ExecuteCmd dotnet publish "XConn\MobileAppService\XConn.MobileAppService.csproj" --framework netcoreapp1.0 --configuration Release --output "%DEPLOYMENT_TEMP%"
 IF !ERRORLEVEL! NEQ 0 goto error
 
 :: 3. KuduSync
