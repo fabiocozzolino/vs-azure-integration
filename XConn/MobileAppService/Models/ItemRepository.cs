@@ -13,7 +13,7 @@ namespace XConn.Models
 
 		public ItemRepository()
 		{
-			Add(new Item { Id = Guid.NewGuid().ToString(), Text = "Sharp", Description = "C# is very sharp!" });
+			Add(new Item { Id = Guid.NewGuid().ToString(), Text = "Sharp", Description = "C# is very sharpie!" });
 		}
 
 		public Item Get(string id)
