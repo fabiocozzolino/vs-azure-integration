@@ -1,2 +1,2 @@
 [config]
-project = deploy.cmd
+command = deploy.cmd
