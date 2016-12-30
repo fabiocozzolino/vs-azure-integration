@@ -18,7 +18,7 @@ Build FAILED.
     1 Error(s)
 
 Time Elapsed 00:00:00.64
-Failed exitCode=1, command=dotnet publish "XConn\MobileAppService\XConn.MobileAppService.csproj" --framework netcoreapp1.0 --configuration Release --output "D:\local\Temp\8d430f111ca6252"
+Failed exitCode=1, command=dotnet publish "XConn\MobileAppService\XConn.MobileAppService.csproj" --framework netcoreapp1.0 --output "D:\local\Temp\8d430f111ca6252"
 An error has occurred during web site deployment.
 \r\nD:\Program Files (x86)\SiteExtensions\Kudu\59.51212.2600\bin\Scripts\starter.cmd deploy.cmd
 
